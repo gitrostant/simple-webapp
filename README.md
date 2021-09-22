@@ -58,7 +58,8 @@ Install Python Flask dependency
 Start web server
 
     python app.py
-    FLASK_APP=app.py flask run --host=0.0.0.0 
+    FLASK_APP=app.py 
+    flask run --host=0.0.0.0 
     
 ## 6. Test
 
