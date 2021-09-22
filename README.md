@@ -13,7 +13,7 @@ This is used in the demonstration of development of Ansible Playbooks.
    
 ## 1. Install all required dependencies
   
-  Python and its dependencies
+  Python3 and its dependencies
 
     apt-get install -y python python-setuptools python-dev build-essential python-pip python-mysqldb
 
